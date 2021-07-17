@@ -1,0 +1,7 @@
+#header {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.default-color0.chart-bar { -fx-bar-fill: red; }
+.default-color1.chart-bar { -fx-bar-fill: blue; }
